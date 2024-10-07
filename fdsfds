@@ -160,7 +160,7 @@ function setConfigs() {
         revTick: false,
         spikeTick: false,
         predictTick: false,
-        autoPlace: false
+        autoPlace: false,
         autoReplace: false,
         antiTrap: false,
         slowOT: false,
